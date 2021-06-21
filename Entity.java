@@ -1,10 +1,5 @@
 /*
 	Aadithya S
-	ICS4U1 - 07
-	Mr.Greco
-	YRDSB SVS
-	June 14th 2021
-
 	Program Description:
 	This Entity abstract class houses the generic functions and variables used for 
     any player, object or background in the game

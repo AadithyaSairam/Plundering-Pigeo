@@ -1,10 +1,6 @@
 /*
 	Aadithya S
-	ICS4U1 - 07
-	Mr.Greco
-	YRDSB SVS
-	June 14th 2021
-
+	
 	Program Description:
 	This is the game class for my 2D game, this is responsible for all the operations in the game
 	This class also consists of the engine used to recieve inputs and display the game. Engine includes 

@@ -1,10 +1,6 @@
 /*
 	Aadithya S
-	ICS4U1 - 07
-	Mr.Greco
-	YRDSB SVS
-	June 14th 2021
-
+	
 	Program Description:
 	This is the main, sets up the window and all necessary function to be called
 	sets screen to 1000 by 1000

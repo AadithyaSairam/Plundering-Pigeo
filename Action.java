@@ -1,10 +1,5 @@
 /*
 	Aadithya S
-	ICS4U1 - 07
-	Mr.Greco
-	YRDSB SVS
-	June 14th 2021
-
 	Program Description:
 	This action class contains functions and commands run by the buttons from the game
 */

@@ -1,9 +1,5 @@
 /*
 	Aadithya S
-	ICS4U1 - 07
-	Mr.Greco
-	YRDSB SVS
-	June 14th 2021
 
 	Program Description:
 	This Player extends from entity to create the interactive player object

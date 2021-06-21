@@ -1,10 +1,5 @@
 /*
 	Aadithya S
-	ICS4U1 - 07
-	Mr.Greco
-	YRDSB SVS
-	June 14th 2021
-
 	Program Description:
 	This background class contains the image to be place in the background of every scene in the game
 */

@@ -1,10 +1,6 @@
 /*
 	Aadithya S
-	ICS4U1 - 07
-	Mr.Greco
-	YRDSB SVS
-	June 14th 2021
-
+	
 	Program Description:
 	This OppositeSpike class extends from entity for the top spike object
 */
